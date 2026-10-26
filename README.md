@@ -6,6 +6,8 @@ Senior software engineer (AI & full-stack) in New York, with 10+ years shipping 
 
 - **[Cappuccino](https://github.com/jwag789/cappuccino-showcase)** · [usecappuccino.com](https://usecappuccino.com)
   AI that finds where teams have committed to incompatible plans. Next.js, Postgres, LLM evals, MCP.
+- **[Kingdom ID](https://github.com/jwag789/kingdom-id)**
+  One account for every Kingdom app: an OpenID Connect provider written from the specs, with passkey-first sign-in and a private relay email per app. Passes the OpenID Foundation Basic OP conformance plan in CI.
 - **[InkSpirit](https://github.com/jwag789/InkSpirit)** · [inkspirit.shop](https://inkspirit.shop)
   AI-native store that turns customer input into custom pet portraits and team logos, with checkout and print-on-demand fulfillment.
 - **[mockingbird](https://github.com/jwag789/mockingbird)**
